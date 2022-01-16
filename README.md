@@ -1,2 +1,2 @@
 chxrst:chxrst
-pub:pub
+public:public
