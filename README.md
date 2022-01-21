@@ -1,2 +1,1 @@
-chxrst:chxrst
-public:public
+chxrst:chxrst public:public
