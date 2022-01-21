@@ -1,1 +1,1 @@
-chxrst:chxrst public:public 
+user chxrst password chxrst user public password public
