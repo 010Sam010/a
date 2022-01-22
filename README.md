@@ -1,1 +1,1 @@
-user: chxrst password: chxrst  user: Sample password : 1234   
+user: chxrst password: chxrst delete : False  user: Sample password : 1234 delete : False   
