@@ -1,2 +1,1 @@
-user: chxrst password: chxrst locked: False   user: sample password : 1234 locked: False   user: joe password: 123 locked: True
-
+<< user - chxrst ? password - chxrst ? locked = False >> << user - temp ? password - temp ? locked = True >> << >>
