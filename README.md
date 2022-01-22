@@ -1,1 +1,1 @@
-user: chxrst password: chxrst  user: chxrst password: chxrst  user: end password: lallie
+user: chxrst password: chxrst  user: Sample password : 1234   
