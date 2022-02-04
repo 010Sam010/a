@@ -1,1 +1,1 @@
-
+b'\n' <> << user - test ? password - 123 ? locked = False >> 
