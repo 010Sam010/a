@@ -1,1 +1,1 @@
-<> << username : myaccount password : 798 >> 
+b'<> << username : myaccount password : 798 >> \n' <> << username : public password : 123 >> 
