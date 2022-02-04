@@ -1,1 +1,1 @@
-b'\n' <> << user - luke ? password - qwert321 ? locked = False >> 
+b"b'\\n' <> << user - luke ? password - qwert321 ? locked = False >> " <> << user - sam ? password - aryuilgqaw3uor327805 ? locked = False >> 
