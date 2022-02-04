@@ -1,1 +1,1 @@
-b'old stuff\n'hello this is my second thing
+b"b'old stuff\\n'hello this is my second thing"aofgy
