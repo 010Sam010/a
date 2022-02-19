@@ -1,1 +1,1 @@
-<> << user - chxrst ? password - chxrst ? locked = False ? admin = True >>
+b'<> << user - chxrst ? password - chxrst ? locked = False ? admin = True >>\n'<< user - testacc ? password - 123 ? locked = False >> ? admin = False <>
