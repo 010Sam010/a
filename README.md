@@ -1,1 +1,1 @@
-b'<> << user - chxrst ? password - chxrst ? locked = False ? admin = True >> <>
+b"b'<> << user - chxrst ? password - chxrst ? locked = False ? admin = True >> <>\n"<< user - sam ? password - 123 ? locked = False >> ? admin = False <>
