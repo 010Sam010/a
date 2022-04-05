@@ -1,1 +1,1 @@
-'<< user - chxrst ? password - chxrst ? locked = False ? admin = False ? newm = False >> <> 
+b"'<< user - chxrst ? password - chxrst ? locked = False ? admin = False ? newm = False >> <> \n"
