@@ -1,1 +1,1 @@
-b"'<< user - chxrst ? password - chxrst ? locked = False ? admin = False ? newm = False >> <> \n"
+b'b"\'<< user - chxrst ? password - chxrst ? locked = False ? admin = False ? newm = False >> <> \\n"'<< user - qu ? password - Videogames17 ? locked = False ? admin = False ? newm = False >> <> 
